@@ -1,0 +1,15 @@
+clue.waldiez
+Best results after 10 runs
+case_id,best_score,best_accuracy_percent,persistent_fails,min_score,max_score
+1052,4/7,"57,14",D,2,4
+1182,3/6,"50,00","A, D",1,3
+1230,3/8,"37,50","A, B, D, F",0,3
+2145,4/8,"50,00","E, F",1,4
+2176,1/6,"16,67","A, C, D, E, F",0,1
+2279,4/7,"57,14",B,0,4
+2372,3/8,"37,50","B, C, H",1,3
+2680,4/7,"57,14",None,0,4
+2799,3/6,"50,00",A,1,3
+2973,2/8,"25,00","A, B, D, F, G",0,2
+
+Global Median Accuracy: 43,81%
